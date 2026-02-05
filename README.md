@@ -49,22 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaogaldinocunha&show_icons=true&locale=en" alt="Estatísticas GitHub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaogaldinocunha&" alt="Contribuições consecutivas" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogaldinocunha&show_icons=true&locale=en&layout=compact" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-João_Victor_Galdino_Cunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)](https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)
