@@ -1,55 +1,69 @@
-<h1 align="left">Hi 👋, I'm João</h1>
-<h3 align="left">🧠 Desenvolvedor em constante evolução | Explorando o mundo da programação com criatividade, foco e paixão. Sempre em busca de soluções elegantes e ideias fora da caixa. 💡 Bora codar o futuro juntos?</h3>
+<div align="center">
+  <h1>João Victor Galdino</h1>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=joaogaldinocunha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Ilustração Computador">
 
----
+Desenvolvedor Backend focado em **Java**, **Spring Boot** e sustentação de ambientes críticos em **SAP (ABAP)**. 
 
-## 🤔 Sobre Mim
+Gosto de entender como os sistemas funcionam por baixo dos panos — desde a captura e modelagem de dados até a arquitetura em nuvem, conteinização e integração de microsserviços.
 
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na faculdade **SPTECH**.
-- 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
----
+Atualmente atuo como estagiário backend na **Stefanini** e sigo em constante evolução acadêmica na **SPTech**.
 
-## 🧰 Minhas Skills
+<br>
 
-### 👨‍💻 Linguagens, Frameworks e Ferramentas
+## 📌 Sobre mim
 
-#### Aplicações e Dados
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</p>
-
-#### Utilidades
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
-
-#### DevOps & Ferramentas
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+- ⚙️ **Uso Diário:** Atuação em ambiente corporativo com foco em sustentação SAP, depuração ABAP, análise de RFCs/BAPIs e dumps de sistema (`ST22`).
+- 🏗️ **Arquitetura & Clean Code:** Desenvolvimento de APIs REST escaláveis aplicando **Clean Architecture**, **DDD** e princípios **SOLID** em Java 17/21.
+- 🚀 **Infraestrutura & DevOps:** Experiência prática na configuração de contêineres Docker, NGINX e infraestrutura básica em **AWS** (EC2, VPC, S3).
+- 🔄 **Dados & Mensageria:** Modelagem relacional (PostgreSQL/MySQL), uso de Redis para cache e padrões de integração com RabbitMQ e Kafka.
+- 👥 **Metodologias Ágeis:** Vivência prática com Scrum em projetos autorais e acadêmicos.
 
 ---
 
-## 🌐 Onde me encontrar
+## 🛠️ Tecnologias & Stack
 
-[![LinkedIn](https://img.shields.io/badge/-João_Victor_Galdino_Cunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)](https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)
-[![Gmail](https://img.shields.io/badge/-joaovictorgacunha@gmail.com-006bed?sty)]()
+### Core Backend & Linguagens
+![Java](https://img.shields.io/badge/Java-17%20%7C%2021-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP-ABAP-008FD5?style=for-the-badge&logo=sap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Bancos de Dados & Filas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 O que você vai encontrar nos meus repositórios
+
+- **Pilar:** Plataforma de inteligência imobiliária unindo IoT (Arduino), Node.js e Spring Boot.
+- **CSF Treinamentos:** Ecossistema de gestão para personal trainers integrando backend Spring Boot / PostgreSQL a aplicativo móvel React Native.
+- **BizManager:** API para gestão empresarial utilizando **Spring Security**, **JWT/OAuth2** e **Java 21**.
+- **OrçaFácil API:** Automação de orçamentos focada em tratamento global de exceções e regras de negócio isoladas.
+
+---
+
+## 🎯 Foco atual de estudos
+
+- Arquitetura Orientada a Eventos (EDA) & Apache Kafka
+- Aprovundamento em AWS e Infraestrutura como Código (IaC)
+- Padrões Avançados em Domain-Driven Design (DDD)
+
+---
+
+## 🌐 Portfólio & Redes
+
+[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://portifolio-two-rust.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorgacunha@gmail.com)
