@@ -14,7 +14,7 @@ Atualmente atuo como estagiário backend na **Stefanini** e sigo em constante ev
 
 ## 📌 Sobre mim
 
-- ⚙️ **Uso Diário:** Atuação em ambiente corporativo com foco em sustentação SAP, depuração ABAP, análise de RFCs/BAPIs e dumps de sistema (`ST22`).
+- ⚙️ **Uso Diário:** Atuação em ambiente corporativo com foco em sustentação SAP, depuração ABAP, análise de RFCs/BAPIs e dumps de sistema.
 - 🏗️ **Arquitetura & Clean Code:** Desenvolvimento de APIs REST escaláveis aplicando **Clean Architecture**, **DDD** e princípios **SOLID** em Java 17/21.
 - 🚀 **Infraestrutura & DevOps:** Experiência prática na configuração de contêineres Docker, NGINX e infraestrutura básica em **AWS** (EC2, VPC, S3).
 - 🔄 **Dados & Mensageria:** Modelagem relacional (PostgreSQL/MySQL), uso de Redis para cache e padrões de integração com RabbitMQ e Kafka.
